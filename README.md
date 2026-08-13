@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Jaison A ðŸ‘‹
+# Hi there, I'm Jaison A
 
 ### Business Analytics Â· Data Storytelling Â· Decision Intelligence
 
