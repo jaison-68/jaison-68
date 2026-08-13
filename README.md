@@ -2,26 +2,27 @@
 
 # Hi there, I'm Jaison A
 
-### Business Analytics Â· Data Storytelling Â· Decision Intelligence
+### Business Analytics | Data Storytelling | Decision Intelligence
 
 <img src="https://komarev.com/ghpvc/?username=jaison-68&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 <img src="https://img.shields.io/badge/Data%20Analytics-Enthusiast-0e75b6?style=flat" alt="Data Analytics"/>
 <img src="https://img.shields.io/badge/PGDM-Business%20Analytics%20'27-2e8b57?style=flat" alt="PGDM"/>
 
 ---
+
 </div>
 
-## ðŸ™‹â€â™‚ï¸ About Me
+## About Me
 
 > **PGDM candidate specialising in Business Analytics** (minor: Supply Chain & Operations) with **14 months as an Operational Analyst** and a **14-week marketing analytics internship** across **7 live client accounts**. I build datasets from scratch, clean and reconcile records, compute unit economics, and turn campaign, funnel and channel data into decisions leadership actually acts on.
 
-- ðŸ”­ Currently: **Marketing & Business Analyst Intern** @ Redwood Associates Business Solutions, Bengaluru
-- ðŸŒ± Learning: Advanced ML concepts, demand forecasting & no-code AI agent building (n8n)
-- ðŸŽ¯ Seeking: **Data Analytics internships & roles** where analysis sits close to the decision
-- ðŸ—£ï¸ Languages: English Â· Tamil Â· Hindi
-- âš¡ Fun fact: Sports Secretary (Athletics) â€” I bring the same sprint mentality to deadlines
+- Currently: **Marketing & Business Analyst Intern** @ Redwood Associates Business Solutions, Bengaluru
+- Learning: Advanced ML concepts, demand forecasting & no-code AI agent building (n8n)
+- Seeking: **Data Analytics internships & roles** where analysis sits close to the decision
+- Languages: English | Tamil | Hindi
+- Fun fact: Sports Secretary (Athletics) - I bring the same sprint mentality to deadlines
 
-## ðŸ§° Tech Stack
+## Tech Stack
 
 **Programming & Databases**
 
@@ -49,47 +50,47 @@
 ![WATI](https://img.shields.io/badge/WATI%20(WhatsApp%20API)-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
-## ðŸ§  What I Do Best
+## What I Do Best
 
-| Analytical Method | Where I've Applied It |
+| Area | Where I've Applied It |
 |---|---|
-| ðŸ“Š KPI tracking & MIS reporting | 142-record lead MIS across 7 live client accounts |
-| ðŸŽ¯ Funnel & conversion analysis | Diagnosed **74.8% funnel drop-off** at the response stage |
-| ðŸ’° Unit economics | Rebuilt a **â‚¹15 crore / 15,000-unit** channel & revenue model bottom-up |
-| ðŸ” Root-cause analysis | Exposed a **17x cost-per-lead spread** by decomposing CPL into CPM + conversion |
-| ðŸ§¹ Data cleaning & reconciliation | Recovered lost leads; cut a **40.1% missing-classification gap** |
-| ðŸ¤– Workflow automation | Python + MySQL + API automation replacing manual workflows |
+| KPI tracking & MIS reporting | 142-record lead MIS across 7 live client accounts |
+| Funnel & conversion analysis | Diagnosed **74.8% funnel drop-off** at the response stage |
+| Unit economics | Rebuilt a **Rs 15 crore / 15,000-unit** channel & revenue model bottom-up |
+| Root-cause analysis | Exposed a **17x cost-per-lead spread** by decomposing CPL into CPM + conversion |
+| Data cleaning & reconciliation | Recovered lost leads; cut a **40.1% missing-classification gap** |
+| Workflow automation | Python + MySQL + API automation replacing manual workflows |
 
-## ðŸ’¼ Professional Experience
+## Professional Experience
 
-- **Marketing & Business Analyst Intern** â€” Redwood Associates Business Solutions, Bengaluru *(Mar 2026 â€“ Jun 2026)*
+- **Marketing & Business Analyst Intern** - Redwood Associates Business Solutions, Bengaluru _(Mar 2026 - Jun 2026)_
   Built multi-client analytics dashboards, weekly performance reports, and a costed strategy deck implemented by the CEO.
-- **Operational Analyst** â€” nStore Retech Pvt. Ltd. *(May 2024 â€“ Jun 2025)*
-  E-commerce/retail tech | IRCTC Food on Track & ONDC operations â€” end-to-end order operations, KPI monitoring, and Python/MySQL automation.
-- **Digital Solutions Intern** â€” MyPreneur *(Jul 2025 â€“ Sep 2025)*
+- **Operational Analyst** - nStore Retech Pvt. Ltd. _(May 2024 - Jun 2025)_
+  E-commerce/retail tech | IRCTC Food on Track & ONDC operations - end-to-end order operations, KPI monitoring, and Python/MySQL automation.
+- **Digital Solutions Intern** - MyPreneur _(Jul 2025 - Sep 2025)_
   Website development (HTML, WordPress, Flex Funnels), content curation & Meta Ads exposure.
-- **Social Immersion Intern** â€” COODU Organisation *(Dec 2025 â€“ Jan 2026)*
+- **Social Immersion Intern** - COODU Organisation _(Dec 2025 - Jan 2026)_
   Field surveys + built a restricted-access NGO web app (HTML, Python, MySQL) for beneficiary tracking.
-- **HR Intern** â€” Equitas Small Finance Bank *(Dec 2023 â€“ Jan 2024)*
+- **HR Intern** - Equitas Small Finance Bank _(Dec 2023 - Jan 2024)_
   Candidate screening, interview scheduling & onboarding validation.
 
-## ðŸŽ“ Education
+## Education
 
-- **PGDM â€” Business Analytics** (Minor: SCM & Operations) Â· MCC Boyd-Tandon School of Business, Chennai *(2025 â€“ 2027)*
-- **B.Com. Corporate Secretaryship** Â· Loyola College (Autonomous), Chennai *(2021 â€“ 2024)*
-- **Higher Secondary & S.S.L.C. (CBSE)** Â· Kendriya Vidyalaya
+- **PGDM - Business Analytics** (Minor: SCM & Operations) | MCC Boyd-Tandon School of Business, Chennai _(2025 - 2027)_
+- **B.Com. Corporate Secretaryship** | Loyola College (Autonomous), Chennai _(2021 - 2024)_
+- **Higher Secondary & S.S.L.C. (CBSE)** | Kendriya Vidyalaya
 
-## ðŸ“œ Certifications
+## Certifications
 
-- âœ… Deloitte Data Analytics Job Simulation â€” *Forage*
-- âœ… Data Visualisation: Empowering Business with Effective Insights â€” *Tata Group, Forage*
-- âœ… No-Code AI Agent Builder (n8n) â€” *Simplilearn SkillUp*
-- âœ… 100 Days of Code: The Complete Python Pro Bootcamp â€” *Udemy*
-- âœ… Excel Intermediate Â· Project Management â€” *Great Learning*
-- âœ… Introduction to Business Statistics â€” *Udemy*
-- âœ… Employability Skill Development Programme â€” *Titan LEAP, Naandi Foundation*
+- Deloitte Data Analytics Job Simulation - _Forage_
+- Data Visualisation: Empowering Business with Effective Insights - _Tata Group, Forage_
+- No-Code AI Agent Builder (n8n) - _Simplilearn SkillUp_
+- 100 Days of Code: The Complete Python Pro Bootcamp - _Udemy_
+- Excel Intermediate | Project Management - _Great Learning_
+- Introduction to Business Statistics - _Udemy_
+- Employability Skill Development Programme - _Titan LEAP, Naandi Foundation_
 
-## ðŸ“ˆ GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -99,13 +100,13 @@
 
 </div>
 
-## ðŸ“¬ Let's Connect
+## Let's Connect
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaison-a-5738bb285)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaisonjefi@gmail.com)
 
-*"Analysis is only valuable when it moves decisions."*
+_"Analysis is only valuable when it moves decisions."_
 
 </div>
