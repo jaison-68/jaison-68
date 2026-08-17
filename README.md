@@ -70,7 +70,7 @@
 
 | | |
 | --- | --- |
-| <img src="https://github-readme-stats.vercel.app/api?username=jaison-68&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=percentile&cache_seconds=1800" width="49%" alt="GitHub stats"> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaison-68&theme=tokyonight&hide_border=true&ring=34b4eb&fire=0e75b6&currStreakLabel=34b4eb&sideNums=ffffff" width="49%" alt="GitHub streak"> |
+| <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaison-68&theme=tokyonight" width="49%" alt="GitHub stats"> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaison-68&theme=tokyonight&hide_border=true&ring=34b4eb&fire=0e75b6&currStreakLabel=34b4eb&sideNums=ffffff" width="49%" alt="GitHub streak"> |
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaison-68&theme=tokyo-night&hide_border=true&line=34b4eb&point=0e75b6&area=true&area_color=0e75b6&color=0e75b6" width="99%" alt="Commit activity graph">
 
