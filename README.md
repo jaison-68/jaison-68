@@ -79,14 +79,6 @@
 
 </div>
 
-<div align="center">
-
-| | |
-| --- | --- |
-| <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jaison-68&theme=tokyonight&hide=Markdown,SCSS" width="49%" alt="Repos per language"> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jaison-68&theme=tokyonight&hide=Markdown,SCSS" width="49%" alt="Most commit language"> |
-
-</div>
-
 ## Professional Experience
 
 | Role | Organisation | Period | Key Impact |
