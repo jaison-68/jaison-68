@@ -70,17 +70,14 @@
 
 | | |
 | --- | --- |
-| <img src="https://github-readme-stats.vercel.app/api?username=jaison-68&show_icons=true&theme=blue-green&hide_border=true&count_private=true" width="49%" alt="GitHub stats"> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaison-68&layout=compact&theme=blue-green&hide_border=true" width="47%" alt="Top languages"> |
-| <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaison-68&theme=tokyonight&hide_border=true" width="49%" alt="GitHub streak"> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jaison-68&theme=tokyonight" width="47%" alt="Repos per language"> |
+| <img src="https://github-readme-stats.vercel.app/api?username=jaison-68&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=percentile" width="49%" alt="GitHub stats"> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaison-68&theme=tokyonight&hide_border=true&ring=34b4eb&fire=0e75b6&currStreakLabel=34b4eb&sideNums=ffffff" width="49%" alt="GitHub streak"> |
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jaison-68&theme=tokyonight" width="47%" alt="Most commit language">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats-in-details?username=jaison-68&theme=tokyonight" width="47%" alt="Stats in details">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jaison-68&theme=tokyo-night&hide_border=true&line=34b4eb&point=0e75b6&area=true&area_color=0e75b6&color=0e75b6" width="99%" alt="Commit activity graph">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jaison-68&theme=tokyonight&utcOffset=8" width="49%" alt="Productive time">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaison-68&theme=tokyonight" width="49%" alt="Profile details">
 
 </div>
-
-## GitHub Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jaison-68&theme=github-dark&hide_border=true" width="100%" alt="Contribution activity graph">
 
 ## Professional Experience
 
