@@ -90,7 +90,61 @@ Used Python, MySQL, APIs and scraping to streamline recurring operational report
 
 <sub>Metrics describe work documented in my internship and project materials; they are not independently audited.</sub>
 
-## ◈ &nbsp;03 — FEATURED PROJECTS
+## ◈ &nbsp;03 — FREELANCE & DIGITAL SERVICES
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/AVAILABLE-FREELANCE%20PROJECTS-22C55E?style=for-the-badge&logo=freelancer&logoColor=white" alt="Freelance projects">
+
+### I help turn ideas into useful digital experiences.
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 Websites & landing pages
+
+Modern, responsive websites for businesses, service providers and personal brands—with clear messaging and a user journey built around enquiries or sales.
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 Dashboards & business analytics
+
+Clean up data, define useful KPIs, build dashboards and translate business performance into insights people can act on.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚙️ Workflow & lead automation
+
+Connect forms, spreadsheets, CRMs and messaging tools to reduce repetitive work and improve lead follow-up.
+
+</td>
+<td width="50%" valign="top">
+
+### 🛍️ E-commerce & digital improvements
+
+Product catalogues, store experiences, website updates and practical improvements to how customers discover and contact a business.
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<a href="https://jaison.vercel.app"><img src="https://img.shields.io/badge/SEE%20MY%20WORK-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="See my work"></a>
+<a href="mailto:jaisonjefi@gmail.com?subject=Freelance%20Project%20Enquiry"><img src="https://img.shields.io/badge/START%20A%20PROJECT-06B6D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Start a freelance project"></a>
+
+<sub>Have a project in mind? Share the goal, and we can discuss a practical way to build it.</sub>
+
+</div>
+
+## ◈ &nbsp;04 — FEATURED PROJECTS
 
 <table>
 <tr>
@@ -181,7 +235,7 @@ Website lead capture and messaging workflows to reduce manual handling.
 
 <img src="https://raw.githubusercontent.com/jaison-68/jaison-68/main/assets/divider_wave.png" width="100%" alt="section divider">
 
-## ◈ &nbsp;04 — TECH STACK
+## ◈ &nbsp;05 — TECH STACK
 
 <div align="center">
 
@@ -208,7 +262,7 @@ Website lead capture and messaging workflows to reduce manual handling.
 
 </div>
 
-## ◈ &nbsp;05 — GITHUB ANALYTICS
+## ◈ &nbsp;06 — GITHUB ANALYTICS
 
 <div align="center">
 
@@ -228,7 +282,7 @@ Website lead capture and messaging workflows to reduce manual handling.
 
 <img src="https://raw.githubusercontent.com/jaison-68/jaison-68/main/assets/divider_wave.png" width="100%" alt="section divider">
 
-## ◈ &nbsp;06 — EXPERIENCE & EDUCATION
+## ◈ &nbsp;07 — EXPERIENCE & EDUCATION
 
 | Role | Focus |
 |:--|:--|
