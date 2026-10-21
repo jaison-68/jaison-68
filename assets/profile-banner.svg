@@ -1,1 +1,42 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="500" viewBox="0 0 1500 500"><defs><linearGradient id="b"><stop stop-color="#050816"/><stop offset="1" stop-color="#160d31"/></linearGradient><linearGradient id="c"><stop stop-color="#67f5ff"/><stop offset="1" stop-color="#7547ff"/></linearGradient></defs><rect width="1500" height="500" rx="28" fill="url(#b)"/><g stroke="#7fa5ff" stroke-opacity=".15"><path d="M0 50H1500M0 100H1500M0 150H1500M0 200H1500M0 250H1500M0 300H1500M0 350H1500M0 400H1500M0 450H1500M50 0V500M100 0V500M150 0V500M200 0V500M250 0V500M300 0V500M350 0V500M400 0V500M450 0V500M500 0V500M550 0V500M600 0V500M650 0V500M700 0V500M750 0V500M800 0V500M850 0V500M900 0V500M950 0V500M1000 0V500M1050 0V500M1100 0V500M1150 0V500M1200 0V500M1250 0V500M1300 0V500M1350 0V500M1400 0V500M1450 0V500"/></g><text x="80" y="150" fill="#79f2ff" font-family="Arial,sans-serif" font-size="20" letter-spacing="5">DATA • SYSTEMS • DECISIONS</text><text x="78" y="235" fill="#fff" font-family="Arial,sans-serif" font-size="76" font-weight="bold">JAISON A.</text><text x="82" y="300" fill="#c7d7ff" font-family="Arial,sans-serif" font-size="28">Business Analytics &amp; Automation</text><text x="82" y="345" fill="#8fa7d9" font-family="Arial,sans-serif" font-size="20">From messy data to decisions that move business.</text><g transform="translate(870 90)"><rect width="480" height="270" rx="18" fill="#162344" fill-opacity=".8" stroke="#67eaff" stroke-opacity=".7" stroke-width="2"/><path d="M30 220H450M30 180H450M30 140H450M30 100H450" stroke="#a1c8ff" stroke-opacity=".2"/><g fill="url(#c)"><rect x="55" y="165" width="40" height="55" rx="4"/><rect x="115" y="130" width="40" height="90" rx="4"/><rect x="175" y="110" width="40" height="110" rx="4"/><rect x="235" y="145" width="40" height="75" rx="4"/><rect x="295" y="80" width="40" height="140" rx="4"/><rect x="355" y="105" width="40" height="115" rx="4"/></g><path d="M45 180C110 170 130 180 180 135S260 160 310 105S390 120 440 65" fill="none" stroke="#7df8ff" stroke-width="5"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="520" viewBox="0 0 1500 520" role="img" aria-labelledby="t d">
+<title id="t">Jaison A — Business Analytics, Automation and Digital Builds</title><desc id="d">Layered futuristic 3D analytics interface with glass dashboards, glowing charts, data networks and a dark cyan violet color palette.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#050816"/><stop offset=".5" stop-color="#0b1531"/><stop offset="1" stop-color="#190d36"/></linearGradient>
+ <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#8ffaff"/><stop offset=".5" stop-color="#23d6f5"/><stop offset="1" stop-color="#287bff"/></linearGradient>
+ <linearGradient id="violet" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f0a7ff"/><stop offset="1" stop-color="#7847ff"/></linearGradient>
+ <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#93efff" stop-opacity=".22"/><stop offset="1" stop-color="#8b6aff" stop-opacity=".035"/></linearGradient>
+ <radialGradient id="halo"><stop stop-color="#1479ff" stop-opacity=".32"/><stop offset="1" stop-color="#1479ff" stop-opacity="0"/></radialGradient>
+ <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="6" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+ <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#89aaff" stroke-opacity=".12"/></pattern>
+</defs>
+<rect width="1500" height="520" rx="28" fill="url(#bg)"/><rect width="1500" height="520" rx="28" fill="url(#grid)"/>
+<ellipse cx="1130" cy="265" rx="480" ry="340" fill="url(#halo)"/>
+<!-- data constellation -->
+<g stroke="#5beaff" stroke-opacity=".45" fill="none" stroke-width="1.5"><path d="M720 76 785 118 836 81 885 124 949 82 1010 122 1060 76"/><path d="M710 390 767 347 825 385 884 341 941 372 1000 330 1057 360 1114 316"/><path d="M1165 120 1214 166 1270 132 1325 181 1386 148 1442 194"/></g>
+<g fill="#7cf5ff" filter="url(#glow)"><circle cx="720" cy="76" r="4"/><circle cx="785" cy="118" r="4"/><circle cx="836" cy="81" r="4"/><circle cx="885" cy="124" r="4"/><circle cx="949" cy="82" r="4"/><circle cx="1010" cy="122" r="4"/><circle cx="1060" cy="76" r="4"/><circle cx="710" cy="390" r="4"/><circle cx="767" cy="347" r="4"/><circle cx="825" cy="385" r="4"/><circle cx="884" cy="341" r="4"/><circle cx="941" cy="372" r="4"/><circle cx="1000" cy="330" r="4"/><circle cx="1057" cy="360" r="4"/><circle cx="1114" cy="316" r="4"/></g>
+<!-- floating data cubes -->
+<g stroke="#80edff" stroke-opacity=".6" fill="url(#glass)" stroke-width="1.5"><path d="M740 200 790 171 840 200 790 230Z"/><path d="M740 200V260L790 290V230Z"/><path d="M840 200V260L790 290V230Z"/><path d="M1255 305 1295 282 1335 305 1295 330Z"/><path d="M1255 305V354L1295 379V330Z"/><path d="M1335 305V354L1295 379V330Z"/></g>
+<!-- floating dashboard panel -->
+<g transform="translate(900 75) skewY(-5)">
+ <rect x="0" y="0" width="470" height="300" rx="20" fill="#0a1430" fill-opacity=".82" stroke="#6cecff" stroke-opacity=".8" stroke-width="2"/>
+ <rect x="14" y="14" width="442" height="40" rx="9" fill="#182649" stroke="#91aaff" stroke-opacity=".35"/>
+ <g><circle cx="33" cy="34" r="4.5" fill="#6ff8ff"/><circle cx="49" cy="34" r="4.5" fill="#a78bfa"/><circle cx="65" cy="34" r="4.5" fill="#ff8bc9"/></g>
+ <text x="90" y="39" font-family="Arial,sans-serif" font-size="12" fill="#a9c5ff" letter-spacing="2">PERFORMANCE OVERVIEW</text>
+ <g fill="none" stroke="#b4d4ff" stroke-opacity=".15"><path d="M28 110H442M28 150H442M28 190H442M28 230H442M28 270H442"/></g>
+ <g fill="url(#cyan)" filter="url(#glow)"><rect x="45" y="190" width="32" height="80" rx="4"/><rect x="91" y="155" width="32" height="115" rx="4"/><rect x="137" y="175" width="32" height="95" rx="4"/><rect x="183" y="124" width="32" height="146" rx="4"/></g>
+ <g fill="url(#violet)" filter="url(#glow)"><rect x="229" y="143" width="32" height="127" rx="4"/><rect x="275" y="98" width="32" height="172" rx="4"/><rect x="321" y="119" width="32" height="151" rx="4"/><rect x="367" y="80" width="32" height="190" rx="4"/></g>
+ <path d="M40 180C90 190 120 128 165 155S230 120 280 96 340 112 420 68" fill="none" stroke="#fff" stroke-opacity=".9" stroke-width="2.5" filter="url(#glow)"/>
+ <g fill="#fff"><circle cx="165" cy="155" r="4"/><circle cx="280" cy="96" r="4"/><circle cx="420" cy="68" r="4"/></g>
+</g>
+<!-- secondary glass panel -->
+<g transform="translate(795 300) rotate(-10)"><rect width="230" height="112" rx="16" fill="url(#glass)" stroke="#a18bff" stroke-opacity=".8" stroke-width="1.5"/><text x="18" y="27" font-family="Arial,sans-serif" font-size="10" letter-spacing="2" fill="#b9c8ff">CONVERSION FLOW</text><path d="M22 83 62 61 101 72 144 44 203 33" fill="none" stroke="url(#cyan)" stroke-width="4" filter="url(#glow)"/><g fill="#fff"><circle cx="62" cy="61" r="3"/><circle cx="144" cy="44" r="3"/><circle cx="203" cy="33" r="3"/></g></g>
+<!-- left identity -->
+<g font-family="Inter,Segoe UI,Arial,sans-serif">
+ <rect x="72" y="75" width="330" height="34" rx="17" fill="#132345" stroke="#5ceaff" stroke-opacity=".55"/><circle cx="91" cy="92" r="4" fill="#6cf4ff" filter="url(#glow)"/><text x="106" y="97" fill="#9eeeff" font-size="13" font-weight="700" letter-spacing="3">DATA • SYSTEMS • DECISIONS</text>
+ <text x="70" y="205" fill="#fff" font-size="82" font-weight="800" letter-spacing="-3">JAISON A.</text>
+ <rect x="76" y="229" width="116" height="5" rx="3" fill="url(#cyan)"/><rect x="198" y="229" width="48" height="5" rx="3" fill="url(#violet)"/>
+ <text x="76" y="278" fill="#d8e5ff" font-size="26" font-weight="600">Business Analytics</text><text x="76" y="314" fill="#d8e5ff" font-size="26" font-weight="600">Automation &amp; Digital Builds</text>
+ <text x="76" y="365" fill="#91a8d5" font-size="17">From messy data to decisions that move business.</text>
+ <g transform="translate(76 414)"><rect width="130" height="34" rx="17" fill="#102b48" stroke="#42d9f7" stroke-opacity=".65"/><text x="65" y="22" text-anchor="middle" fill="#a4f4ff" font-size="12" font-weight="700">PYTHON · SQL</text><rect x="140" width="130" height="34" rx="17" fill="#20173f" stroke="#a38aff" stroke-opacity=".65"/><text x="205" y="22" text-anchor="middle" fill="#d6c6ff" font-size="12" font-weight="700">BI · AUTOMATION</text></g>
+</g>
+</svg>
